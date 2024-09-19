@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ipmahern.github.io/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/app/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/assets/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/css/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/data/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/includes/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/item/sitemap.html.gz
+Sitemap: https://ipmahern.github.io/src/sitemap.html.gz
